@@ -21,7 +21,6 @@ import {
   ClipboardListIcon,
   CogIcon,
   ViewGridIcon,
-  SearchIcon,
   UploadIcon,
   DocumentDownloadIcon,
   ChartPieIcon,
