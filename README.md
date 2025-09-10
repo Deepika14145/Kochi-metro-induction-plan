@@ -79,3 +79,12 @@ The application is hardcoded to read the Gemini API Key from the environment var
 9. **View Reports**:  
    - Navigate to the **Reports** tab to see a sample monthly performance report.  
 
+<img width="1366" height="662" alt="9" src="https://github.com/user-attachments/assets/eaf9c34a-2314-4778-9c39-41e67cb611b2" />
+<img width="1366" height="669" alt="8" src="https://github.com/user-attachments/assets/24b54b4b-cf9e-416f-bb95-1bfeb5625142" />
+<img width="1366" height="680" alt="7" src="https://github.com/user-attachments/assets/994a8f74-2ab3-4771-a6b3-fccfa1ab281d" />
+<img width="1366" height="667" alt="6" src="https://github.com/user-attachments/assets/ac991592-f452-44e0-b6fd-2554e2e4a400" />
+<img width="1366" height="671" alt="5" src="https://github.com/user-attachments/assets/c43ae961-4d4c-4146-913d-2a815d522c9a" />
+<img width="1366" height="660" alt="4" src="https://github.com/user-attachments/assets/fdbd433d-76a4-4b6b-82a2-aa6486a2c78f" />
+<img width="1366" height="673" alt="3" src="https://github.com/user-attachments/assets/3eee279c-2463-4f00-93fd-7f2c32312c0b" />
+<img width="1366" height="664" alt="2" src="https://github.com/user-attachments/assets/3f2bf528-29ba-4aba-8f59-eea85eab566b" />
+<img width="1366" height="638" alt="1" src="https://github.com/user-attachments/assets/ebb49f0f-a432-4180-8120-4005468d678c" />
