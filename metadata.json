@@ -1,0 +1,5 @@
+{
+  "name": "Kochi Metro AI Induction Planner",
+  "description": "An integrated, algorithm-driven decision-support platform for Kochi Metro to optimize nightly trainset induction planning. The app uses AI to generate a ranked induction list based on multiple variables, providing explainable reasoning and conflict alerts.",
+  "requestFramePermissions": []
+}
