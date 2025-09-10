@@ -40,21 +40,8 @@ The project is organized into a modular structure to promote maintainability and
 ├── package.json           → Project dependencies and scripts  
 └── README.md              → This file  
 
-## 5. Getting Started
 
-This application is designed to run in a web-based development environment where the API key is securely managed.
-
-### Prerequisites
-
--  
-
-### Configuration
-
-The application is hardcoded to read the Gemini API Key from the environment variable `process.env.API_KEY`. This is configured in `vite.config.ts`.
-
-**Important**: The application code **must not** be modified to handle the API key in any other way. Do not add UI elements for key input or hardcode the key directly. The execution environment is responsible for providing this variable.
-
-## 6. How to Use the Application
+## 5. How to Use the Application
 
 1. **Authentication**: Start by selecting a team ('Operations' or 'Inspectors') and logging in.  
 2. **Explore the Landing Page**: The landing page provides an overview of the Kochi Metro, project details, and a FAQ section.  
