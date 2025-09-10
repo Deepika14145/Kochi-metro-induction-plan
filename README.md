@@ -6,7 +6,7 @@ An integrated, algorithm-driven decision-support platform for Kochi Metro to opt
 
 ## 2. Key Features
 
-- **AI-Powered Induction Planning**: Leverages Google's Gemini model to analyze complex fleet data and generate an optimal induction plan, categorizing each trainset for revenue service, standby, or maintenance.  
+- **AI-Powered Induction Planning**: Analyze complex fleet data and generate an optimal induction plan, categorizing each trainset for revenue service, standby, or maintenance.  
 - **Interactive Fleet Dashboard**: A real-time, card-based view of the entire train fleet, allowing for quick searches and filtering based on fitness status or open job cards.  
 - **Customizable Decision Logic**: Operations managers can modify the AI's decision-making process by editing natural language rules and adjusting priority weights for different factors (e.g., maintenance needs vs. branding commitments).  
 - **Data Import/Export**: Easily import fleet data using a CSV file. The application also provides functionality to download a data template or the full mock dataset.  
@@ -18,7 +18,7 @@ An integrated, algorithm-driven decision-support platform for Kochi Metro to opt
 ## 3. Technology Stack
 
 - **Frontend**: React, TypeScript  
-- **AI/ML**: Google Gemini API (`@google/genai`)  
+- **AI/ML**: Python 
 - **Styling**: Tailwind CSS  
 - **Build Tool**: Vite  
 
@@ -46,7 +46,7 @@ This application is designed to run in a web-based development environment where
 
 ### Prerequisites
 
-- An active **Google Gemini API Key**  
+-  
 
 ### Configuration
 
@@ -81,7 +81,7 @@ The application is hardcoded to read the Gemini API Key from the environment var
 
 <img width="1366" height="638" alt="1" src="https://github.com/user-attachments/assets/ebb49f0f-a432-4180-8120-4005468d678c" />
 
-<img width="1366" height="664" alt="2" src="https://github.com/user-attachments/assets/3f2bf528-29ba-4aba-8f59-eea85eab566b" />
+![WhatsApp Image 2025-09-10 at 11 23 59 PM](https://github.com/user-attachments/assets/1f492fbe-8d02-47d0-8057-5fbd2cf46089)
 
 <img width="1366" height="673" alt="3" src="https://github.com/user-attachments/assets/3eee279c-2463-4f00-93fd-7f2c32312c0b" />
 
@@ -96,4 +96,5 @@ The application is hardcoded to read the Gemini API Key from the environment var
 <img width="1366" height="669" alt="8" src="https://github.com/user-attachments/assets/24b54b4b-cf9e-416f-bb95-1bfeb5625142" />
 
 <img width="1366" height="662" alt="9" src="https://github.com/user-attachments/assets/eaf9c34a-2314-4778-9c39-41e67cb611b2" />
+
 
