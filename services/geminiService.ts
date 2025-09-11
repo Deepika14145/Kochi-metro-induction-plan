@@ -2,7 +2,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 import type { Trainset, Recommendation, PriorityWeights } from '../types';
 
 // FIX: Initialize with process.env.API_KEY as per the guidelines.
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: import.meta.env.VITE_API_KEY });
 
 const detailedItemSchema = {
     type: Type.OBJECT,
@@ -104,6 +104,7 @@ export const generateInductionPlan = async (trains: Trainset[], rules: string, w
     });
 
     try {
+      
         const jsonText = response.text.trim();
         const parsedJson = JSON.parse(jsonText);
         // Ensure all train IDs are strings for consistency
